@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "218921949648",
+    "firebase_url": "https://ucsi-temp-device.firebaseio.com",
+    "project_id": "ucsi-temp-device",
+    "storage_bucket": "ucsi-temp-device.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218921949648:android:dabc6f055ad0b725a201d5",
+        "android_client_info": {
+          "package_name": "com.ucsicrewnet.temp_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218921949648-u3b4e9t5nqnlnduabs6nv598avvlgikk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3ibnDQHUvJtcTr2IpUbzlRaPcstzXtWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218921949648-u3b4e9t5nqnlnduabs6nv598avvlgikk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
