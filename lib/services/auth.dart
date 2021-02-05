@@ -1,7 +1,5 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:temp_project/models/user.dart';
-import 'package:temp_project/screens/authenticate/authenticate.dart';
-import 'package:temp_project/services/database.dart';
 
 class AuthService {
   final FirebaseAuth _auth = FirebaseAuth.instance;
@@ -63,7 +61,7 @@ class AuthService {
     } catch (e) {
       print(e.toString());
       return null;
-      print('test');
+      
     }
 
 
